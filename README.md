@@ -1,5 +1,5 @@
 # Panda-for-Xresources
-🐼 Panda color sheme for linux terminals that uses .Xresources color scheme 
+🐼 [Panda color sheme](https://github.com/PandaTheme) for linux terminals that uses [.Xresources](https://wiki.archlinux.org/index.php/x_resources) color scheme 
 
 Based on https://github.com/PandaTheme/panda-terminal
 
