@@ -17,4 +17,4 @@ color0: #111111
 color15: #FFFFFF
 ```
 
-To apply changes in your ~/.Xresources, you have to reload the resource configuration with xrdb ~/.Xresources
+To apply changes in your ~/.Xresources, you have to reload the resource configuration with xrdb -merge ~/.Xresources
